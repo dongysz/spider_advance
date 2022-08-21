@@ -1,2 +1,2 @@
 # spipder_advance
-spipder advance
+spider advance
